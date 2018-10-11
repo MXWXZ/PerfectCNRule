@@ -1,7 +1,8 @@
 # PerfectCNRule
 ABP规则补充
 
-<a href="abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FMXWXZ%2FPerfectCNRule%2Fmaster%2FPerfectCNRule.txt&amp;title=PerfectCNRule">点击订阅</a>
+# 订阅方式
+在ABP设置中点击Advanced-ADD A NEW FILTER LIST，粘贴如下地址：https://raw.githubusercontent.com/MXWXZ/PerfectCNRule/master/PerfectCNRule.txt
 
 # 规则补充
 本规则仅对默认和已有规则未完善之处给予补充\
