@@ -9,3 +9,4 @@ iplaysoft.com##div[style="margin-top:20px;padding:35px 0 20px 0;border-top:1px s
 blog.csdn.net##.bdsharebuttonbox._360_interactive.bdshare-button-style0-16
 blog.csdn.net##.recommend-item-box.recommend-ad-box
 blog.csdn.net##.recommend-item-box.type_hot_word
+bt.cn##.btad
