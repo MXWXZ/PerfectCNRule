@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201810132053
+! Version: 201811201116
 ! Title: PerfectCNRule
 ! Homepage: https://github.com/MXWXZ/PerfectCNRule
 ! Expires: 7 days
