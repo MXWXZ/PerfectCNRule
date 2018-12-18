@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201812061615
+! Version: 201812181124
 ! Title: PerfectCNRule
 ! Homepage: https://github.com/MXWXZ/PerfectCNRule
 ! Expires: 7 days
@@ -12,3 +12,4 @@ blog.csdn.net##.recommend-item-box.type_hot_word
 blog.csdn.net##.p4courset3_target._4paradigm_box.recommend-item-box.clearfix.isGreatIcon
 bt.cn##.btad
 readthedocs.io##.keep-us-sustainable
+ruanyifeng.com##div[style="border: 1px solid rgb(198, 198, 198); border-radius: 4px; background-color: rgb(245, 242, 240); padding: 15px; font-size: 16px;"]
