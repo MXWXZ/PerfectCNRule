@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201812211243
+! Version: 201901061445
 ! Title: PerfectCNRule
 ! Homepage: https://github.com/MXWXZ/PerfectCNRule
 ! Expires: 7 days
@@ -10,6 +10,7 @@ blog.csdn.net##.bdsharebuttonbox._360_interactive.bdshare-button-style0-16
 blog.csdn.net##.recommend-item-box.recommend-ad-box
 blog.csdn.net##.recommend-item-box.type_hot_word
 blog.csdn.net##.p4courset3_target._4paradigm_box.recommend-item-box.clearfix.isGreatIcon
+blog.csdn.net##div[id^="kp_box_"]
 bt.cn##.btad
 readthedocs.io##.keep-us-sustainable
 qiye.aliyun.com##.evt.home_advertisement_banner_img_wrap
