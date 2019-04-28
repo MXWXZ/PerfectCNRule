@@ -11,6 +11,8 @@ blog.csdn.net##.recommend-item-box.recommend-ad-box
 blog.csdn.net##.recommend-item-box.type_hot_word
 blog.csdn.net##.p4courset3_target._4paradigm_box.recommend-item-box.clearfix.isGreatIcon
 blog.csdn.net##div[id^="kp_box_"]
+blog.csdn.net###passportbox
+blog.csdn.net##.login-mark
 bt.cn##.btad
 readthedocs.io##.keep-us-sustainable
 qiye.aliyun.com##.evt.home_advertisement_banner_img_wrap
