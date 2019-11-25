@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201909242219
+! Version: 201911251600
 ! Title: PerfectCNRule
 ! Homepage: https://github.com/MXWXZ/PerfectCNRule
 ! Expires: 7 days
@@ -25,3 +25,4 @@ blog.sina.com.cn###sinaadToolkitBox2
 blog.sina.com.cn###sinaadToolkitBox3
 blog.sina.com.cn##.blogreco
 www.bilibili.com##.gg-floor-module
+kakarot.net/cdn-cgi/apps/body/*.js
