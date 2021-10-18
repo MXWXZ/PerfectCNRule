@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201911251600
+! Version: 202110181730
 ! Title: PerfectCNRule
 ! Homepage: https://github.com/MXWXZ/PerfectCNRule
 ! Expires: 7 days
@@ -15,6 +15,28 @@ blog.csdn.net##div[id^="kp_box_"]
 blog.csdn.net###passportbox
 blog.csdn.net##.login-mark
 blog.csdn.net###article_content>a
+blog.csdn.net##.comment-like
+blog.csdn.net##.new-opt-floating
+blog.csdn.net##.csdn-common-logo-advert
+blog.csdn.net###csdn-toolbar
+blog.csdn.net##.csdn-side-toolbar a[data-type!='gotop']
+blog.csdn.net###asideNewNps
+blog.csdn.net###asideSearchArticle
+blog.csdn.net###asideHotArticle
+blog.csdn.net###asideCategory
+blog.csdn.net###asideNewComments
+blog.csdn.net###asideArchive
+blog.csdn.net###asideProfile>.aside-box-footer
+blog.csdn.net###asideProfile>.profile-intro-name-boxOpration
+blog.csdn.net###asideProfile>.data-info.d-flex.item-tiling
+blog.csdn.net###asideProfile>.item-rank
+blog.csdn.net##.template-box
+blog.csdn.net##.blog-footer-bottom
+blog.csdn.net###toolBarBox
+blog.csdn.net##.second-recommend-box.recommend-box
+blog.csdn.net##.comment-edit-box.d-flex
+blog.csdn.net##.recommend-box.insert-baidu-box
+blog.csdn.net###blogColumnPayAdvert
 bt.cn##.btad
 readthedocs.io##.keep-us-sustainable
 qiye.aliyun.com##.evt.home_advertisement_banner_img_wrap
