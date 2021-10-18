@@ -51,3 +51,4 @@ blog.sina.com.cn###sinaadToolkitBox3
 blog.sina.com.cn##.blogreco
 www.bilibili.com##.gg-floor-module
 kakarot.net/cdn-cgi/apps/body/*.js
+www.ruanyifeng.com/blog/checker.js
