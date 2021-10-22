@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202110181825
+! Version: 202110221321
 ! Title: PerfectCNRule
 ! Homepage: https://github.com/MXWXZ/PerfectCNRule
 ! Expires: 7 days
@@ -52,3 +52,12 @@ blog.sina.com.cn##.blogreco
 www.bilibili.com##.gg-floor-module
 kakarot.net/cdn-cgi/apps/body/*.js
 www.ruanyifeng.com/blog/checker.js
+zhuanlan.zhihu.com##.Modal-wrapper.Modal-enter-done
+zhuanlan.zhihu.com##.Post-SideActions
+zhuanlan.zhihu.com##.ColumnPageHeader-Wrapper
+zhuanlan.zhihu.com##.CommentsV2-footer.CommentEditorV2--normal
+zhuanlan.zhihu.com##.PostIndex-Contributions
+zhuanlan.zhihu.com##.Sticky.RichContent-actions.is-bottom
+zhuanlan.zhihu.com##.Recommendations-Main
+zhuanlan.zhihu.com##.Post-topicsAndReviewer
+zhuanlan.zhihu.com##.CommentItemV2-footer
