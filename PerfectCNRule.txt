@@ -40,6 +40,7 @@ blog.csdn.net###asideCategory
 blog.csdn.net##.template-box
 blog.csdn.net###copyright-box
 blog.csdn.net###articleSearchTip
+blog.csdn.net##.box-shadow.mb8
 bt.cn##.btad
 readthedocs.io##.keep-us-sustainable
 qiye.aliyun.com##.evt.home_advertisement_banner_img_wrap
